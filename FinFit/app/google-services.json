@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253413189024",
+    "firebase_url": "https://fin-fit.firebaseio.com",
+    "project_id": "fin-fit",
+    "storage_bucket": "fin-fit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253413189024:android:0aa689bc96e656a9",
+        "android_client_info": {
+          "package_name": "org.opportunity_hack.finfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253413189024-sico1itahuut7k29jpnh80571m6421j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.opportunity_hack.finfit",
+            "certificate_hash": "F771332F297E6E69B637083F714D6B9E6996B480"
+          }
+        },
+        {
+          "client_id": "253413189024-ljl6u548gf6uqhkntdd3crrj6s50sf0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkxyuw9Bh0WvgDNaY9eQSxT4VUtSNjbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253413189024-ljl6u548gf6uqhkntdd3crrj6s50sf0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
